@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Psychology, Pontificia Universidad Católica del Perú, 2020
+  * Magna Cum Laude | GPA: 17.19/20.00
+
+* Exchange Program, University Wisconsin-Madison, 2018
+  * Earned CRS: 18 | GPA: 3.89/4.00
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Behavioral Designer, RIMAC SEGUROS Y REASEGUROS
+  * Defined the experimental methodology and impact evaluation for numerous research projects designed to promote a culture of experimentation within the company.
 
 * Fall 2015: Research Assistant
   * Github University
