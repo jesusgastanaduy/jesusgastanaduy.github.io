@@ -1,6 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "CV"
+    url: http://j-gastanaduy.github.io/files/JG_CV_22.pdf
+  
+  - title: "Research"
     url: /publications/
 
   - title: "Talks"
@@ -14,9 +17,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: http://j-gastanaduy.github.io/files/JG_CV_22.pdf
     
   - title: "Guide"
     url: /markdown/
