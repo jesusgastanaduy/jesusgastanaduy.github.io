@@ -24,8 +24,8 @@ Work experience
 * Behavioral Designer, RIMAC SEGUROS Y REASEGUROS
   * Defined the experimental methodology and impact evaluation for numerous research projects designed to promote a culture of experimentation within the company.
 
-* Fall 2015: Research Assistant
-  * Github University
+* Behavioral Researcher, HEURISTICA LAB
+  * Consulting team member of two World Bank projects dedicated to improve early childhood in Peru and Brazil through the implementation of behavioral insights within National Program’s “Cuna M s” and “Criança Feliz”, which aid over 170K and 900k families under poverty.
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
