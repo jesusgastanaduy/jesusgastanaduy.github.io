@@ -12,10 +12,12 @@ redirect_from:
 Education
 ======
 * B.A. in Psychology, Pontificia Universidad Católica del Perú, 2020
-  * Magna Cum Laude | GPA: 17.19/20.00
+  * Magna Cum Laude
+  * GPA: 17.19/20.00
 
 * Exchange Program, University Wisconsin-Madison, 2018
-  * Earned CRS: 18 | GPA: 3.89/4.00
+  * Earned CRS: 18 
+  * GPA: 3.89/4.00
 
 Work experience
 ======
