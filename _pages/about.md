@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi! I hold a B.A. in Psychology, and currently work as a Behavioral Designer at [RIMAC Seguros](https://www.rimac.com/). 
 
 I have previosuly worked as a Behavioral Researcher at [Heuristica Lab](https://www.heuristicalab.com/), and as a Research Assistant at the [Center for Healthy Minds](https://centerhealthyminds.org/).
