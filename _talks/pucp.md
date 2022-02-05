@@ -1,3 +1,4 @@
+---
 title: "Viaje al Cerebro Corrupto. Psicología, Neurociencia y Derecho"
 collection: talks
 permalink: /talks/pucp
