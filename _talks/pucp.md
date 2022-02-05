@@ -2,7 +2,7 @@
 title: "Viaje al Cerebro Corrupto. Psicología, Neurociencia y Derecho"
 collection: talks
 permalink: /talks/pucp
-venue: "Pontifical University of Peru, Department of Law"
+venue: "Pontifical Catholic University of Peru, Department of Law"
 location: "Lima, Peru"
 type: "International Seminar"
 ---
