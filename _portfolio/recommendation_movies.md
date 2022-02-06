@@ -6,3 +6,5 @@ permalink: /portfolio/recommendation_movies
 
 ---
 
+You can downloas the report [here](https://github.com/j-gastanaduy/MovieLens_project/raw/master/MovieLens_Project.pdf), and access the code [here](https://github.com/j-gastanaduy/MovieLens_project)
+
