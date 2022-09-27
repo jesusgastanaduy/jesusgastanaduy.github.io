@@ -17,4 +17,4 @@ I have more than 3 years of experience designing and evaluating business experim
 
 I am eager to help organizations make evidence-based decisions through the correct understanding of data and the promptly application of behavioral insights.
 
-Also, in my free time, I love to play the guitar, the piano and practice meditation and calisthenics!
+In my free time, I love to play the guitar, the piano, and practice meditation and calisthenics!
