@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Lima, Peru"
 ---
 
-The course covered the main supervised and unsupervised algorithms in Machine Learning; the coding language used was R.
+The course covered the main supervised and unsupervised algorithms in Machine Learning; the programming language used was R.
 
 Some of the algorithms taught include:
 
