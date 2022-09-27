@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Lima, Peru"
 ---
 
-The course provided students with the tools needed to conduct rigourous impact evaluations, when randomization is not possible. 
+The course equipped students with the tools needed to conduct rigourous impact evaluations, when randomization is not possible. 
 
 Some of the techniques learned include:
 
