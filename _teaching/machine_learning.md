@@ -2,7 +2,7 @@
 title: "Machine Learning"
 collection: teaching
 type: "Graduate taught"
-permalink: /teaching/machine_learning.md
+permalink: /teaching/machine_learning
 venue: "Pontificia Universidad Católica del Perú"
 date: 2022-01-01
 location: "Lima, Peru"
