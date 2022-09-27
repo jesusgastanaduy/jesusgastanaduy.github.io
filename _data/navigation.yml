@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Resume"
     url: http://j-gastanaduy.github.io/files/JG_CV_22.pdf
   
   - title: "Research"
     url: /publications/
     
-  - title: "Machine Learning"
+  - title: "Machine Learning Projects"
     url: /portfolio/  
+  
+  - title: "Relevant coursework"
+    url: /xx/  
 
   - title: "Talks"
     url: /talks/  
