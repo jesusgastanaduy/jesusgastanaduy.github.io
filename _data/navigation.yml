@@ -6,10 +6,10 @@ main:
   - title: "Research"
     url: /publications/
     
-  - title: "Machine Learning Projects"
+  - title: "ML Projects"
     url: /portfolio/  
   
-  - title: "Relevant coursework"
+  - title: "Relevant Coursework"
     url: /teaching/  
 
   - title: "Talks"
