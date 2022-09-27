@@ -12,4 +12,6 @@ The course focused on some applications of deep learning algorithms; the program
 
 Some of the algorithms revisited include:
 
-- Neural Networks
+- Deep Forward Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
