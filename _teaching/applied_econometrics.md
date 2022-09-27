@@ -2,7 +2,7 @@
 title: "Applied Econometrics"
 collection: teaching
 type: "Graduate taught"
-permalink: /teaching/applied_econometrics.md
+permalink: /teaching/applied_econometrics
 venue: "Pontificia Universidad Católica del Perú"
 date: 2022-01-01
 location: "Lima, Peru"
