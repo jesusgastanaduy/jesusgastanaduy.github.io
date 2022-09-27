@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Applied Econometrics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate taught"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Pontificia Universidad Católica del Perú"
+date: 2022-01-01
+location: "Lima, Peru"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course provided students with the tools needed to conduct rigourous impact evaluations, when randomization is not possible. 
 
-Heading 1
+Differences in Differences (DID)
 ======
 
-Heading 2
+Instrumental Variables
 ======
 
-Heading 3
+Regression Discontinuity (RDD)
+======
+
+Synthetic Control Methods
 ======
