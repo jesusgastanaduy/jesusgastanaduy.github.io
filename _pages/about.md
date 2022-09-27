@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Hi, I am Jesus! I hold a B.A. in Psychology, and a Diploma in Data Science. I currently work as a CX Metrics & Analytics Specialist at [RIMAC Seguros](https://www.rimac.com/). 
+Hi, I am Jesus! I hold a B.A. in Psychology, and a Diploma in Data Science. 
 
-I have previosuly worked as a Behavioral Designer at [RIMAC Seguros](https://www.rimac.com/), Behavioral Researcher at [Heuristica Lab](https://www.heuristicalab.com/), and as a Research Assistant at the [Center for Healthy Minds](https://centerhealthyminds.org/).
+I currently work as a CX Metrics & Analytics Specialist at [RIMAC Seguros](https://www.rimac.com/); and in the past, have previosuly worked as a Behavioral Designer at [RIMAC Seguros](https://www.rimac.com/), Behavioral Researcher at [Heuristica Lab](https://www.heuristicalab.com/), and as a Research Assistant at the [Center for Healthy Minds](https://centerhealthyminds.org/).
 
 I have more than 3 years of experience designing and evaluating experimental studies, as well as conducting quantitative and qualitative research for the private and public sector. 
 
