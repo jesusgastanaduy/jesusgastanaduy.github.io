@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Lima, Peru"
 ---
 
-The course equiped students with practical tools needed to perform natural language processing tasks; the coding language used was Python.
+The course equipped students with practical tools needed to perform natural language processing tasks; the programming language used was Python.
 
 Some of the topics covered include:
 
