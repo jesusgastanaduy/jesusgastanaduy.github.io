@@ -10,14 +10,10 @@ location: "Lima, Peru"
 
 The course provided students with the tools needed to conduct rigourous impact evaluations, when randomization is not possible. 
 
-Differences in Differences (DID)
-======
+Some of the techniques learned include:
 
-Instrumental Variables
-======
+- Differences in Differences (DID)
+- Instrumental Variables
+- Regression Discontinuity (RDD)
+- Synthetic Control Methods
 
-Regression Discontinuity (RDD)
-======
-
-Synthetic Control Methods
-======
