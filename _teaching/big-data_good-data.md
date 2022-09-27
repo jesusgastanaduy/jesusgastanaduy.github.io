@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Lima, Peru"
 ---
 
-The class was divided in two sections. In the first part we explored sampling methods, whereas in the second, we dived into parallel computing.
+The course was divided in two sections. In the first part we explored sampling methods, whereas in the second, we dived into parallel computing.
 
 Some of the topics covered were:
 
