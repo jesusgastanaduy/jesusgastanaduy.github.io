@@ -2,7 +2,7 @@
 title: "Natural Language Processing"
 collection: teaching
 type: "Graduate taught"
-permalink: /teaching/applied_econometrics
+permalink: /teaching/nlp
 venue: "Pontificia Universidad Católica del Perú"
 date: 2022-01-01
 location: "Lima, Peru"
