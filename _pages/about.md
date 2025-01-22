@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I am Jesus! I am currently studying a Master of Science in Business Analytics at UC San Diego, Rady School of Management; and hold a B.A. in Psychology from Pontifica Universidad Católica del Perú.
 
-In the past I have had roles as Senior Design Researcher at [Interbank] (https://interbank.pe/),CX Metrics & Analytics Specialist at [RIMAC Seguros](https://www.rimac.com/), have had roles as Behavioral Designer at [RIMAC Seguros](https://www.rimac.com/), Behavioral Researcher at [Heuristica Lab](https://www.heuristicalab.com/), and Research Assistant at the [Center for Healthy Minds](https://centerhealthyminds.org/).
+In the past I have had roles as Senior Design Researcher at [Interbank](https://interbank.pe/), CX Metrics & Analytics Specialist at [RIMAC Seguros](https://www.rimac.com/), Behavioral Designer at [RIMAC Seguros](https://www.rimac.com/), Behavioral Researcher at [Heuristica Lab](https://www.heuristicalab.com/), and Research Assistant at the [Center for Healthy Minds](https://centerhealthyminds.org/).
 
 I have more than 5 years of experience designing and evaluating business experiments; developing statistical and machine learning models; as well as conducting quantitative and qualitative research for the financial industry. 
 
